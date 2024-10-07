@@ -1,0 +1,5 @@
+print("Aammer")
+print("Shagufta")
+print(54+77)
+print("We are are learning in codanics")
+print("Now i am learning online code 'python ka chila'")

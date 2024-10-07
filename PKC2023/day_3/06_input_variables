@@ -1,0 +1,23 @@
+fruit_basket="Mangoes"
+print(fruit_basket)
+
+
+# #input variables
+fruit_basket=input("What is your favourite fruit?")
+print(fruit_basket)
+
+#input variables of second stage
+name=input("What is yours name?")
+greeting="Hello"
+print(greeting, name)
+
+
+#another way of input variables of second stage
+name=input("What is your name?")
+print("Hello!", name)
+
+#input variables of 3rd stage
+name=input("What is your name? ") 
+age=input("How old are you? ")
+greeting="Hello"
+print(greeting, name, "I am still young")
